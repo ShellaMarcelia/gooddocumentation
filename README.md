@@ -8,3 +8,10 @@
 |     2226240037|Dealy Alti             |
 |     2226240038|Valens Florencia             |
 |     2226240057|Michael Fernando         |
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
